@@ -1,0 +1,169 @@
+{
+  "common": {
+    "brandName": "QuietNumbers",
+    "close": "Đóng",
+    "back": "Trở Về"
+  },
+  "app": {
+    "loadingText": "Đang kết nối với các vì sao...",
+    "validationAlert": "Vui lòng nhập đầy đủ Họ và tên & Ngày tháng năm sinh."
+  },
+  "landing": {
+    "heroTitle": "Khám Phá Bản Mã Tâm Hồn",
+    "nameLabel": "Họ Và Tên",
+    "namePlaceholder": "Nhập họ và tên...",
+    "dobLabel": "Ngày Sinh (Dương Lịch)",
+    "submitBtn": "Giải Mã Con Số Của Bản Thân",
+    "submitZodiacBtn": "Khám Phá Cung Hoàng Đạo",
+    "fallbackQuoteText": "Bình yên không nằm ở thế giới bên ngoài, mà hiện diện tĩnh lặng sâu thẳm bên trong bạn.",
+    "fallbackQuoteAuthor": "Ngạn ngữ",
+    "topics": {
+      "lifePath": {
+        "title": "Con Số Chủ Đạo",
+        "description": "Tính toán từ ngày sinh của bạn, Con Số Chủ Đạo tiết lộ những tài năng thiên bẩm, bài học cốt lõi và hành trình mà bạn được vũ trụ giao phó."
+      },
+      "destiny": {
+        "title": "Chỉ Số Sứ Mệnh",
+        "description": "Ẩn chứa đằng sau cái tên của bạn là một tần số rung động đặc biệt. Nó định hình cách bạn thể hiện bản thân và mục đích sống sâu xa nhất."
+      },
+      "elements": {
+        "title": "Sự Cân Bằng Năng Lượng",
+        "description": "Phân tích sự phân bổ của Ngũ Hành trong bản đồ năng lượng, giúp bạn tìm ra giải pháp tĩnh tại và cân bằng nội tâm giữa nhịp sống hiện đại."
+      }
+    }
+  },
+  "report": {
+    "closeReport": "Trở lại",
+    "headerSubtitle": "Bản Đồ Năng Lượng Chuyên Sâu",
+    "dobLabel": "Ngày sinh: ",
+    "lifePathTitle": "Con Số Chủ Đạo",
+    "lifePathSubtitle": "Đường Đời & Tài Năng",
+    "destinyTitle": "Chỉ Số Sứ Mệnh",
+    "destinySubtitle": "Mục Đích & Thể Hiện",
+    "synthesisLabel": "Bản Đồ Linh Hồn Của Bạn",
+    "strengthsLabel": "Điểm Mạnh",
+    "challengesLabel": "Thách Thức",
+    "careerLabel": "Con Đường Danh Vọng & Tài Chính",
+    "loveLabel": "Tần Số Tình Cảm",
+    "futureLabel": "Dự Báo Tương Lai",
+    "healingLabel": "Chữa Lành & Bình Yên",
+    "soulUrgeLabel": "Khao Khát Linh Hồn",
+    "personalityMaskLabel": "Mặt Nạ Với Thế Giới",
+    "karmicLessonsLabel": "☯ Nghiệp Quả & Bài Học",
+    "shadowWorkSubtitle": "Công Việc Bóng Tối",
+    "shadowWorkTitle": "Tích Hợp Phần Bóng Tối Của Bạn",
+    "crystalsSubtitle": "💎 Đá Chữa Lành",
+    "crystalsTitle": "Đồng Hành Năng Lượng Của Bạn",
+    "affirmationsSubtitle": "✨ Lập Trình Lại Tâm Trí",
+    "affirmationsTitle": "Khẳng Định Hàng Ngày Của Bạn",
+    "elementsTitle": "Bản Đồ Ngũ Hành",
+    "elementsSubtitle": "Sự Phân Bổ Năng Lượng Tự Nhiên",
+    "affiliateTitle": "Vật Phẩm Trợ Lực",
+    "affiliateSubtitle": "Cân Bằng Năng Lượng Của Bạn",
+    "affiliates": [
+      {
+        "name": "Vòng Gỗ Trầm Hương",
+        "type": "Mộc"
+      },
+      {
+        "name": "Đá Thanh Tẩy Thạch Anh",
+        "type": "Kim"
+      },
+      {
+        "name": "Nến Thơm Thảo Mộc",
+        "type": "Hỏa"
+      },
+      {
+        "name": "Tinh Dầu Thiên Nhiên",
+        "type": "Thủy"
+      }
+    ],
+    "premiumCta": {
+      "tagline": "Nâng Cấp Trải Nghiệm",
+      "title": "Nhận Báo Cáo Chuyên Sâu",
+      "description": "Khám phá Bóng Tối Tâm Lý, Bài Học Nghiệp Quả, 4 Đỉnh Cao Cuộc Đời và Dòng Chảy Tài Vượng — được viết riêng cho bạn.",
+      "price": "40.000 VNĐ",
+      "unlockBtn": "Mở Khóa Ngay"
+    }
+  },
+  "checkout": {
+    "title": "Mở Khóa Bản Đồ Năng Lượng Độc Bản",
+    "priceLabel": "40.000 VNĐ",
+    "features": [
+      "Hồ Sơ Năng Lượng Cốt Lõi",
+      "Bóng Tối Tâm Lý & Shadow Work",
+      "Bản Đồ 4 Đỉnh Cao Cuộc Đời",
+      "Dòng Chảy Tài Vượng & Soulmate",
+      "Lời Khuyên Chữa Lành Thực Tế"
+    ],
+    "bankTransferTitle": "Thanh Toán Chuyển Khoản",
+    "qrPlaceholder": "Mã QR / Momo",
+    "bankNameLabel": "Ngân hàng:",
+    "bankNameValue": "Vietcombank",
+    "bankAccountLabel": "Số TK:",
+    "bankAccountValue": "0123 4567 890",
+    "bankAccountHolderLabel": "Chủ TK:",
+    "bankAccountHolderValue": "QUIET NUMBERS",
+    "transferDescLabel": "Nội dung CK: QN -",
+    "emailInputLabel": "Email Nhận Báo Cáo",
+    "emailPlaceholder": "your@email.com",
+    "confirmBtn": "Xác Nhận Đã Chuyển Khoản",
+    "processingBtn": "Đang xử lý...",
+    "successTitle": "Cảm ơn bạn",
+    "successDescription": "Vũ trụ đã ghi nhận kết nối. Bản báo cáo chuyên sâu sẽ được gửi đến email của bạn trong vòng 24 giờ.",
+    "qaTitle": "QA Mode — Deep Research Prompt",
+    "qaSubtitle": "Copy prompt bên dưới để paste vào AI tool",
+    "qaCopyBtn": "Copy Prompt",
+    "qaCopiedBtn": "✓ Đã Copy",
+    "qaDoneBtn": "Xong → Hiển thị Success"
+  },
+  "datePicker": {
+    "placeholder": "dd-mm-yyyy",
+    "months": [
+      "Tháng 1",
+      "Tháng 2",
+      "Tháng 3",
+      "Tháng 4",
+      "Tháng 5",
+      "Tháng 6",
+      "Tháng 7",
+      "Tháng 8",
+      "Tháng 9",
+      "Tháng 10",
+      "Tháng 11",
+      "Tháng 12"
+    ],
+    "days": [
+      "CN",
+      "T2",
+      "T3",
+      "T4",
+      "T5",
+      "T6",
+      "T7"
+    ]
+  },
+  "topicDetail": {
+    "backBtn": "Trở Về"
+  },
+  "zodiacReport": {
+    "closeReport": "Trở lại",
+    "headerSubtitle": "Bản Đồ Cung Hoàng Đạo",
+    "overviewTitle": "Năng Lượng Cốt Lõi",
+    "strengthsLabel": "Điểm Mạnh",
+    "weaknessesLabel": "Điểm Yếu Cần Khắc Phục",
+    "loveLabel": "Tình Yêu & Các Mối Quan Hệ",
+    "loveLanguageLabel": "Ngôn Ngữ Tình Yêu",
+    "careerLabel": "Sự Nghiệp & Khát Vọng",
+    "wealthLabel": "Tiềm Năng Tài Phú",
+    "shadowWorkTitle": "Shadow Work - Góc Khuất Tâm Hồn",
+    "karmicLessonsTitle": "Bài Học Nghiệp Quả",
+    "spiritualPracticesTitle": "Thực Hành Tâm Linh",
+    "luckyInfoLabel": "Chỉ Số May Mắn",
+    "crystalsTitle": "Đá Năng Lượng Phù Hợp",
+    "affirmationsTitle": "Lời Khẳng Định",
+    "elementLabel": "Nguyên Tố: ",
+    "rulingPlanetLabel": "Hành Tinh Chủ Quản: ",
+    "synergyTitle": "Bản Thể Độc Bản (Synergy)"
+  }
+}
